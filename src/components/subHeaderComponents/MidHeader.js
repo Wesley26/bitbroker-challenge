@@ -5,7 +5,7 @@ import MidGetInspection from './subMidHeaderComponents/MidGetInspection';
 function MidHeader() {
     return (
         <div>
-            <div className="grid grid-rows-3">
+            <div className="grid grid-rows-3 h-space6">
                 <MidTitleHead />
                 <MidGetInspection />
             </div>

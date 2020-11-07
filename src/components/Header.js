@@ -2,17 +2,23 @@ import React from 'react';
 import TopHeader from './subHeaderComponents/TopHeader';
 import NavHeader from './subHeaderComponents/NavHeader';
 import MidHeader from './subHeaderComponents/MidHeader';
+import BottomHeader from './subHeaderComponents/BottomHeader';
 
 function Header() {
     return (
-      <div className="pb-64 text-white">
-        <header className="pl-space1 pr-space1 bg-header-color h-space2 w-full">
+      <div className="flex justify-center pb-64 text-white overflow-auto">
+        <div className="bg-header-color flex w-2/6">
+        </div>
+          <header className="bg-header-color h-space2 w-full">
 
-        <TopHeader />
-        <NavHeader />
-        <MidHeader />
+          <TopHeader />
+          <NavHeader />
+          <MidHeader />
+          <BottomHeader />
 
-        </header>
+          </header>
+        <div className="bg-header-color flex w-2/6">
+        </div>
       </div>
     );
 };
