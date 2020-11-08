@@ -1,6 +1,6 @@
 module.exports = {
   purge: {
-    enabled: false,
+    enabled: true,
       content: [ './src/**/*.js' ],
   },
   theme: {
@@ -22,6 +22,7 @@ module.exports = {
         'space4': '4rem',
         'space5': '39%',
         'space6': '20.8rem',
+        'space7': '46%',
       },
       fontSize: {
         'header1': '2rem',

@@ -5,7 +5,7 @@ import { faSatellite, faPaste, faTools } from '@fortawesome/free-solid-svg-icons
 
 function BottomHeader() {
     return (
-        <div className="mb-32">
+        <div className="invisible md:visible mb-32">
           <div className="bg-bottom-header-box flex justify-center h-40 w-full rounded-lg shadow-md">
             <div className="flex justify-center w-full">
 
