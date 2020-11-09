@@ -56,10 +56,10 @@ function MidGetInspection() {
                     className="bg-gray-200 p-1 flex justify-start w-space3 rounded-md"
                 >
                     <strong className="text-black text-sm">
-                        {main_text}
+                        <button><p><b>{main_text}</b></p></button>
                     </strong> 
                     <small className="text-black text-sm">
-                        {secondary_text}
+                        <button><p className="pl-3">{secondary_text}</p></button>
                     </small>
                 </li>
             );

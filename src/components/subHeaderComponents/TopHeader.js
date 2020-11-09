@@ -22,7 +22,7 @@ function TopHeader() {
                 icon={faPhoneAlt}
                 className="h-auto w-2/12"
             />
-            <h1 className="pt-4 text-center h-16 w-6/12">
+            <h1 className="mr-10 pt-4 text-center h-16 w-6/12">
                 +1 (800) 401-7716
             </h1>
         </div>
