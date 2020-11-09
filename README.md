@@ -1,4 +1,6 @@
-Bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Implements [TailwindCSS](https://tailwindcss.com/), [PostCSS](https://postcss.org/), [react-cool-onclickoutside](https://www.npmjs.com/package/react-cool-onclickoutside), and [Google Maps Places API Autocomplete for React Hooks](https://reactjsexample.com/react-hook-for-google-maps-places-autocomplete/).
+![Demo screenshot for this header re-creation challenge](https://raw.githubusercontent.com/Wesley26/bitbroker-challenge/main/src/videoSubmission/RemoteRoofingDemo.PNG)
+
+Bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Implements [TailwindCSS](https://tailwindcss.com/), [PostCSS](https://postcss.org/), [font-awesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react), [react-cool-onclickoutside](https://www.npmjs.com/package/react-cool-onclickoutside), and [Google Maps Places API Autocomplete for React Hooks](https://reactjsexample.com/react-hook-for-google-maps-places-autocomplete/).
 
 # Info
 - This is my project submission for the BitBucket challenge to re-create the top header portion of [the following Remote Roofing website here](https://www.remoteroofing.com). This project reached MVP (Minimum Viable Product stage) on November 8th, 2020. Video submission file can be downloaded under src/videoSubmission directory.
