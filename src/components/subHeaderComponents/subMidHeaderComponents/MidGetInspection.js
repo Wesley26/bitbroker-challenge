@@ -75,7 +75,7 @@ function MidGetInspection() {
                 <img
                     src="https://uploads-ssl.webflow.com/5f127ac8860f158e650f06b5/5f5a6d20aa3c71469c732751_blue-home-pin.png"
                     alt="null"
-                    className="mt-3 ml-3 h-6 w-7"
+                    className="mt-1 mb-2 ml-3 h-10 w-7"
                 >
                 </img>
                 <div 

@@ -9,7 +9,7 @@ function BottomHeader() {
           <div className="bg-bottom-header-box flex justify-center h-40 w-full rounded-lg shadow-md">
             <div className="flex justify-center w-full">
 
-              <div className="mt-10 ml-12 flex">
+              <div className="mt-10 ml-12 flex w-full">
                   <FontAwesomeIcon 
                       icon={faSatellite}
                       className="text-header3 ml-6 h-16 w-16"
@@ -19,22 +19,22 @@ function BottomHeader() {
                   </div>
               </div>
 
-              <div className="mt-10 ml-12 flex">
+              <div className="mt-10 ml-12 flex w-full">
                   <FontAwesomeIcon 
                       icon={faPaste}
-                      className="text-header3 ml-6 h-16 w-16"
+                      className="text-header3 h-16 w-16"
                   />
                   <div className="mt-3 ml-5 h-16 w-32">
                     File a Claim
                   </div>
               </div>
 
-              <div className="mt-10 ml-12 flex">
+              <div className="mt-10 ml-12 flex w-full">
                   <FontAwesomeIcon 
                       icon={faTools}
                       className="text-header3 ml-6 h-16 w-16"
                   />
-                  <div className="mt-3 ml-5 pr-16 h-16 w-14">
+                  <div className="mt-3 ml-5 pr-16 h-16 w-48">
                     Replace or Repair Roof
                   </div>
               </div>
